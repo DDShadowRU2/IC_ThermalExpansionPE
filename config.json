@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "show_resource_errors": true,
+  "gen": {
+    "copper": true,
+    "tin": true,
+    "lead": true,
+    "silver": true,
+    "nickel": true,
+    "platinum": true
+  }
+}

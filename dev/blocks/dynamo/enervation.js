@@ -1,0 +1,1 @@
+DynamoHelper.registerDynamo("dynamoEnervation", "Enervation dynamo", "dynamo_enervation", {});

@@ -1,0 +1,1 @@
+DynamoHelper.registerDynamo("dynamoMagmatic", "Magmatic dynamo", "dynamo_magmatic", {});
